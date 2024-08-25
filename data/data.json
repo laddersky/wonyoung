@@ -1,0 +1,7 @@
+[
+  { "date": "24-8-2024", "state": "good" },
+  { "date": "25-8-2024", "state": "bad" },
+  { "date": "26-8-2024", "state": "normal" },
+  { "date": "27-8-2024", "state": "good" },
+  { "date": "28-8-2024", "state": "bad" }
+]
