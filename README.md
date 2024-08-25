@@ -1,5 +1,6 @@
 # start
 
+GDSC 2024.08.24~25 카이스트 원용적 사고 (그린풋 프로젝트)
 A new Flutter project.
 
 ## Getting Started
